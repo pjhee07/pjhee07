@@ -1,4 +1,8 @@
-### Hi there 👋
+### 👋
+
+<div align="center">
+  <img src="https://i.postimg.cc/Pr0r3D8g/2025-03-18-195815.png"/>
+</div>
 
 <!--
 **pjhee07/pjhee07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
